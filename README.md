@@ -12,13 +12,17 @@ O repositório está organizado de acordo com os módulos do curso. Cada módulo
 
 ### Tópicos Abordados
 
-- **Introdução à Lógica de Programação**
-- **Operadores e Expressões**
-- **Estruturas de Controle: if, else, switch, loops**
-- **Funções e Arrays**
-- **Recursividade**
-- **Ordenação e Busca**
-- **Análise de Complexidade de Algoritmos**
+- [Introdução à Lógica de Programação](https://github.com/palomaflores/logica-de-programacao/blob/main/1.Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o.md)
+- [Estrutura Sequencial](https://github.com/palomaflores/logica-de-programacao/blob/main/2.%20Estrutura%20sequencial.md)
+- Estrutura Condicional
+- Estruturas repetitivas
+- Vetores
+- Matrizes
+- Linguagem C
+- Linguagem C++
+- Linguagem Java
+- Linguagem C#
+- Linguagem Python
 
 ---
 
