@@ -11,18 +11,17 @@ O curso tem como objetivo ensinar os fundamentos de algoritmos e lógica de prog
 O repositório está organizado de acordo com os módulos do curso. Cada módulo contém as minhas anotações sobre o que foi aprendido, incluindo exemplos de código e explicações detalhadas. A estrutura do repositório é a seguinte:
 
 ### Tópicos Abordados
-
-- [Introdução à Lógica de Programação](https://github.com/palomaflores/logica-de-programacao/blob/main/1.Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o.md)
-- [Estrutura Sequencial](https://github.com/palomaflores/logica-de-programacao/blob/main/2.%20Estrutura%20sequencial.md)
-- Estrutura Condicional
-- Estruturas repetitivas
-- Vetores
-- Matrizes
-- Linguagem C
-- Linguagem C++
-- Linguagem Java
-- Linguagem C#
-- Linguagem Python
+1. [Introdução à Lógica de Programação](https://github.com/palomaflores/logica-de-programacao/blob/main/1.Introdu%C3%A7%C3%A3o%20%C3%A0%20programa%C3%A7%C3%A3o.md)
+2. [Estrutura Sequencial](https://github.com/palomaflores/logica-de-programacao/blob/main/2.%20Estrutura%20sequencial.md)
+3. [Estrutura Condicional](https://github.com/palomaflores/logica-de-programacao/blob/main/3.%20Estrutura%20condicional.md)
+4. Estruturas repetitivas
+5. Vetores
+6. Matrizes
+7. Linguagem C
+8. Linguagem C++
+9. Linguagem Java
+10. Linguagem C#
+11. Linguagem Python
 
 ---
 
